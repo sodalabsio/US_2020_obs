@@ -1,4 +1,4 @@
-# US_2020_obs
+# US 2020 Political Observatory
 Political observatory for US 2020 election using twitter data.
 
 ## Tasks
